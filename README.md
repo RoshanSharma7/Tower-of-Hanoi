@@ -51,7 +51,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ### 👤 Author
 Roshan Sharma
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/roshan-sharma)
-- [Connect with me on GitHub](https://www.github.com/roshan-sharma)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/roshansharma7/)
+- [Connect with me on GitHub](https://www.github.com/roshansharma7)
 - [Visit my portfolio website](https://roshansharma7.github.io/Roshan.github.io/)
 
